@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+body{
+    background: lightgray;
+    font-size: 20px;
+}
+.form-loging{
+    margin: 100px 200px;
+    background: white;
+    padding: 20px;
+    display: inline-block;
+}
+.form-loging form input{
+    font-size: 18px;
+    width: 500px;
+    margin:8px 0;
+    padding: 5px;
+
+}
+.form-loging form button{
+    font-size: 18px;
+    width: 500px;
+    margin:8px 0;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 8px;
+}
